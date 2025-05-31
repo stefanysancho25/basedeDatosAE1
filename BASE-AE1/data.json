@@ -1,0 +1,189 @@
+
+[
+    {
+        "nombre": "Alfredo",
+        "apellido": "Monreal",
+        "edad": 33,
+        "sueldo": 2384
+    },
+    {
+        "nombre": "Lucía",
+        "apellido": "Ramírez",
+        "edad": 29,
+        "sueldo": 3120
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "Gómez",
+        "edad": 41,
+        "sueldo": 2800
+    },
+    {
+        "nombre": "Diana",
+        "apellido": "Paredes",
+        "edad": 37,
+        "sueldo": 2950
+    },
+    {
+        "nombre": "Jorge",
+        "apellido": "Salinas",
+        "edad": 30,
+        "sueldo": 2750
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "Torres",
+        "edad": 26,
+        "sueldo": 2650
+    },
+    {
+        "nombre": "Luis",
+        "apellido": "García",
+        "edad": 44,
+        "sueldo": 3300
+    },
+    {
+        "nombre": "Mario",
+        "apellido": "Herrera",
+        "edad": 39,
+        "sueldo": 3100
+    },
+    {
+        "nombre": "Laura",
+        "apellido": "Moreno",
+        "edad": 35,
+        "sueldo": 2900
+    },
+    {
+        "nombre": "Andrés",
+        "apellido": "Rivas",
+        "edad": 28,
+        "sueldo": 2450
+    },
+    {
+        "nombre": "Valeria",
+        "apellido": "Castro",
+        "edad": 32,
+        "sueldo": 2990
+    },
+    {
+        "nombre": "Samuel",
+        "apellido": "López",
+        "edad": 36,
+        "sueldo": 3200
+    },
+    {
+        "nombre": "Camila",
+        "apellido": "Sánchez",
+        "edad": 31,
+        "sueldo": 2755
+    },
+    {
+        "nombre": "Renato",
+        "apellido": "Paz",
+        "edad": 40,
+        "sueldo": 3050
+    },
+    {
+        "nombre": "Fernanda",
+        "apellido": "Jiménez",
+        "edad": 27,
+        "sueldo": 2680
+    },
+    {
+        "nombre": "Iván",
+        "apellido": "Cárdenas",
+        "edad": 34,
+        "sueldo": 2920
+    },
+    {
+        "nombre": "Sofía",
+        "apellido": "Núñez",
+        "edad": 30,
+        "sueldo": 2810
+    },
+    {
+        "nombre": "Héctor",
+        "apellido": "Delgado",
+        "edad": 45,
+        "sueldo": 3350
+    },
+    {
+        "nombre": "Karina",
+        "apellido": "Mendoza",
+        "edad": 38,
+        "sueldo": 3105
+    },
+    {
+        "nombre": "Esteban",
+        "apellido": "Bravo",
+        "edad": 33,
+        "sueldo": 2760
+    },
+    {
+        "nombre": "Isabel",
+        "apellido": "Flores",
+        "edad": 29,
+        "sueldo": 2580
+    },
+    {
+        "nombre": "Oscar",
+        "apellido": "Navarro",
+        "edad": 36,
+        "sueldo": 2870
+    },
+    {
+        "nombre": "Mónica",
+        "apellido": "Cruz",
+        "edad": 31,
+        "sueldo": 2740
+    },
+    {
+        "nombre": "Pablo",
+        "apellido": "Zamora",
+        "edad": 42,
+        "sueldo": 3125
+    },
+    {
+        "nombre": "Gabriela",
+        "apellido": "Silva",
+        "edad": 28,
+        "sueldo": 2630
+    },
+    {
+        "nombre": "Rodrigo",
+        "apellido": "Mejía",
+        "edad": 39,
+        "sueldo": 3180
+    },
+    {
+        "nombre": "Natalia",
+        "apellido": "Reyes",
+        "edad": 34,
+        "sueldo": 3010
+    },
+    {
+        "nombre": "Emilio",
+        "apellido": "Acosta",
+        "edad": 30,
+        "sueldo": 2800
+    },
+    {
+        "nombre": "Daniela",
+        "apellido": "Quintero",
+        "edad": 27,
+        "sueldo": 2550
+    },
+    {
+        "nombre": "Javier",
+        "apellido": "Figueroa",
+        "edad": 43,
+        "sueldo": 3250
+    },
+    {
+        "nombre": "Patricia",
+        "apellido": "Gallardo",
+        "edad": 36,
+        "sueldo": 2930
+    }
+]
